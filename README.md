@@ -1,5 +1,7 @@
 # spring-long-shutdown
 
+https://github.com/spring-projects/spring-boot/issues/40057
+
 Demo project to show slow shutdown in case of spring boot 3.2.x.
 Use `./startstop.sh` to demo a start-stop sequence.
 
